@@ -1,0 +1,11 @@
+# Librerías EXTRA de tu proyecto, una por renglón.
+#
+# Déjalo así si no necesitas nada especial: el servidor ya trae instaladas
+# streamlit, pandas, numpy, matplotlib, plotly, psycopg, sqlalchemy,
+# python-dotenv, python-telegram-bot, requests, anthropic y openai.
+#
+# Ojo: cada librería que agregues aquí se instala CADA VEZ que publicas, y eso
+# hace más lento el arranque de tu app. Pon solo lo que de verdad te falte.
+#
+# Ejemplo:
+# scikit-learn
